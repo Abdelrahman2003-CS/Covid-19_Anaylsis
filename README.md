@@ -1,4 +1,4 @@
-#COVID-19 Data Analysis and Visualization
+# COVID-19 Data Analysis and Visualization
 
 This repository contains a collection of Jupyter Notebooks dedicated to analyzing and visualizing the COVID-19 dataset sourced from Kaggle. The analysis is divided into countrywise and daywise perspectives, and also includes the creation of an interactive dashboard.
 
